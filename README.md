@@ -35,7 +35,7 @@
    - Теги позволяют быстро фильтровать метрики из нашего шаблона
 
 ### Скриншот шаблона (Задание 1):
-![zabbix-template-cpu-ram](https://github.com/meshkov-sergey/8-02-hw/blob/main/img/zabbix-template-cpu-ram.png)
+![zabbix-template-cpu-ram](https://github.com/meshkov-sergey/netology-8-03-hw/blob/main/img/zabbix-template-cpu-ram.png)
 
 ---
 
@@ -62,7 +62,7 @@
    - Оба хоста имеют зелёный статус подключения
 
 ### Скриншот хостов с привязками шаблонов (Задание 2-3):
-![zabbix-hosts-templates](https://github.com/meshkov-sergey/8-02-hw/blob/main/img/zabbix-hosts-templates.png)
+![zabbix-hosts-templates](https://github.com/meshkov-sergey/netology-8-03-hw/blob/main/img/zabbix-hosts-templates.png)
 
 ---
 
@@ -92,6 +92,6 @@
    - Графики обновляются в реальном времени с интервалом 1 минута
 
 ### Скриншот дашборда (Задание 4):
-![zabbix-custom-dashboard](https://github.com/meshkov-sergey/8-02-hw/blob/main/img/zabbix-custom-dashboard.png)
+![zabbix-custom-dashboard](https://github.com/meshkov-sergey/netology-8-03-hw/blob/main/img/zabbix-custom-dashboard.png)
 
 ---
